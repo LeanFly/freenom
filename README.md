@@ -301,6 +301,7 @@ $ cd /data/wwwroot/freenom/ && php run
 遇到任何问题或 Bug 欢迎提 [issues](https://github.com/luolongfei/freenom/issues) （请按模板格式提`issues`，以便作者更快复现你的问题），
 如果`Freenom`改变算法导致此项目失效，请提 [issues](https://github.com/luolongfei/freenom/issues) 告知，我会及时修复，本项目长期维护。
 欢迎`star`~
+    
 
 ### 🍺  信仰
 
